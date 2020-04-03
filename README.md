@@ -14,4 +14,4 @@ Course homepage:
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-## Modif bu bd - new feature
+## Modif bu bd - new feature - in the correct branc
